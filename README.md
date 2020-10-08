@@ -9,15 +9,12 @@ All resources, configuration, scripts, and pictures involved in our homelab proj
 
 ## What We'll Host on the Homelab
 
-### Ubuntu LTS 20 server VM
-
-#### K8S Cluster
+### Ubuntu LTS 20 server VM (apps on k8s cluster)
 
   - Wordpress portfolio site
   - Minecraft Server
+  - Discord Bots
   
 ### FreeNAS
 
   - NAS
-
-### Discord bots
