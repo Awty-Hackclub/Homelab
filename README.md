@@ -14,6 +14,8 @@ All resources, configuration, scripts, and pictures involved in our homelab proj
   - Wordpress portfolio site
   - Minecraft Server
   - Discord Bots
+  - Hackathon Apps
+  - Members' personal sites/apps
   
 ### FreeNAS
 
