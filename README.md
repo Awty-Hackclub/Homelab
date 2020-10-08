@@ -11,8 +11,8 @@ All resources, configuration, scripts, and pictures involved in our homelab proj
 
 ### Ubuntu LTS 20 server VM
 
-  1. Wordpress portfolio site
+  - Wordpress portfolio site
   
 ### FreeNAS
 
-  1. NAS
+  - NAS
