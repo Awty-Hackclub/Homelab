@@ -9,5 +9,10 @@ All resources, configuration, scripts, and pictures involved in our homelab proj
 
 ## What We'll Host on the Homelab
 
-1. Wordpress portfolio site (Ubuntu LTS 20 server vm)
-2. NAS (FreeNas vm)
+### Ubuntu LTS 20 server VM
+
+  1. Wordpress portfolio site
+  
+### FreeNAS
+
+  1. NAS
