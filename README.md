@@ -14,11 +14,8 @@ All resources, configuration, scripts, and pictures involved in our homelab proj
 #### K8S Cluster
 
   - Wordpress portfolio site
+  - Minecraft Server
   
 ### FreeNAS
 
   - NAS
-
-### Minecraft server
-
-### Game files
