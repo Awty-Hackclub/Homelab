@@ -11,7 +11,7 @@ All resources, configuration, scripts, and pictures involved in our homelab proj
 
 ### Ubuntu LTS 20 server VM
 
-### K8S Cluster
+#### K8S Cluster
 
   - Wordpress portfolio site
   
