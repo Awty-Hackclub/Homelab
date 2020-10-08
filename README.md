@@ -18,3 +18,7 @@ All resources, configuration, scripts, and pictures involved in our homelab proj
 ### FreeNAS
 
   - NAS
+
+### Minecraft server
+
+### Game files
