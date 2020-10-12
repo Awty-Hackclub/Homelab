@@ -4,8 +4,9 @@ All resources, configuration, scripts, and pictures involved in our homelab proj
 
 ## Plans
 
-1. Will be vlogged in a series on youtube
+1. Will be vlogged on youtube
 2. Design Schematic/architecture (network diagram)
+3. Used to teach network engineering and linux system administration to club members
 
 ## What We'll Host on the Homelab
 
